@@ -1,4 +1,4 @@
-# Code Analysis: Plagiarism Detection with TF-IDF and Cosine Similarity
+# Plagiarism Detection with TF-IDF and Cosine Similarity
 
 ## Overview
 The provided Python code aims to detect plagiarism among a set of text documents using TF-IDF (Term Frequency-Inverse Document Frequency) and cosine similarity. TF-IDF is a numerical statistic that reflects the importance of a word in a document relative to a corpus, while cosine similarity measures the cosine of the angle between two vectors, typically in multi-dimensional space.
